@@ -1,4 +1,11 @@
+fastapi
+uvicorn[standard]
+python-multipart
 opencv-python
 ultralytics
+torch
+open-clip-torch
+numpy
+pillow
 
 
